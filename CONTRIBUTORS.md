@@ -223,3 +223,9 @@
  - Place: Jakarta, Indonesia
  - Bio: Student
  - GitHub: [Stevhen](https://github.com/stevhens)
+
+### Name: Laisha Wadhwa
+  
+ - Place: Andhra Pradesh, India
+ - Bio: Undergraduate in Computer Science
+ - GitHub: [laishwadhwa](https://github.com/laishawadhwa)
